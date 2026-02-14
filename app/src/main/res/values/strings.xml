@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МедКарта</string>
+    <string name="login">Вход</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="biometric_login">Вход по биометрии</string>
+    <string name="patients">Пациенты</string>
+    <string name="add_patient">Добавить пациента</string>
+    <string name="search">Поиск</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выход</string>
+    <string name="audit_log">Журнал аудита</string>
+    <string name="patient_detail">Карта пациента</string>
+    <string name="medical_history">История болезни</string>
+    <string name="lab_results">Результаты анализов</string>
+    <string name="documents">Документы</string>
+</resources>
